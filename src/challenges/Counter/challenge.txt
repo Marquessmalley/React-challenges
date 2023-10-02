@@ -1,0 +1,12 @@
+Challenge: 
+
+Create a React component called Counter that displays a counter value and two buttons, 
+one for incrementing the counter and one for decrementing it. Initially, the counter value should be 
+set to 0, and clicking the "Increment" button should increase the counter by 1, while clicking the "Decrement" 
+button should decrease it by 1.
+
+Constraints:
+
+- The counter value should never go below 0 (i.e., it cannot be negative).
+- Use React state to manage the counter value.
+- The component should render the counter value and two buttons: "Increment" and "Decrement."
