@@ -1,0 +1,11 @@
+Challenge: 
+
+Create a React component called ColorPicker that allows users to select a color from a predefined list of colors. 
+When a color is selected, it should change the background color of the component to the selected color.
+
+Constraints:
+
+- Use React state to manage the selected color.
+- Display a list of color options (e.g., Red, Green, Blue) as buttons or a dropdown.
+- When a color option is clicked, update the background color of the component to the selected color.
+- Use CSS to style the component and highlight the selected color.

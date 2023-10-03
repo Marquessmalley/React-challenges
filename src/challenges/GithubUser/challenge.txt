@@ -1,0 +1,12 @@
+Challenge: 
+
+Create a React component called GitHubUser that allows users to search for a GitHub user by their username. 
+When the user enters a GitHub username and clicks a "Search" button, the component should fetch the user's 
+information from the GitHub API (you can use the GitHub REST API) and display their username, avatar, and a 
+link to their GitHub profile.
+
+Constraints:
+
+- Use React state to manage the input field for the username and to display the user's information.
+- Utilize Axios or the Fetch API to make a GET request to the GitHub API to retrieve user data.
+- Display the fetched user's username, avatar image, and a link to their GitHub profile.
