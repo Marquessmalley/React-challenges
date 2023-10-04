@@ -1,0 +1,15 @@
+Challenge: 
+
+Create a React component called RegistrationForm for user registration. The form 
+should include fields for the user's name, email, and password. Implement basic form validation 
+to ensure that:
+
+Requirements:
+
+- Use React state to manage the form fields and error messages.
+- The name field is required and must contain at least two characters.
+- The email field is required and must be a valid email address (you can use a basic regex pattern for email validation).
+- The password field is required and must be at least eight characters long.
+- Implement validation logic in the component to check user input against the specified criteria.
+- Display error messages next to the corresponding fields when validation fails.
+- Allow the user to submit the form if all fields are valid.

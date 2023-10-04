@@ -1,0 +1,16 @@
+Challenge: 
+
+Create a React component called CountdownTimer that displays a countdown timer with a start button, 
+a pause button, and a reset button. The timer should start from a specified initial time (e.g., 60 seconds) 
+and count down to zero. When the timer reaches zero, it should stop, and the component should display a message l
+ike "Time's up!"
+
+Requirements:
+
+- Use the useState hook to manage the timer's current time and whether it's running.
+- Use the useEffect hook to update the timer's countdown logic.
+- Implement a "Start" button to begin the countdown timer.
+- Implement a "Pause" button to pause the timer (which can be resumed with "Start").
+- Implement a "Reset" button to reset the timer to its initial value.
+- Display the current time remaining in seconds.
+- When the timer reaches zero, display a message like "Time's up!" instead of the countdown.
