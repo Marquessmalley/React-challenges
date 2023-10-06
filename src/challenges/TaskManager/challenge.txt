@@ -1,0 +1,19 @@
+Challenge: 
+
+Create a simple task management application using the useReducer hook. Your application 
+should allow users to add and remove tasks. Each task should have a unique ID and a description.
+
+Requirements:
+
+TaskList Component:
+- Display a list of tasks, including their descriptions and "Remove" buttons.
+- Each task should have a unique ID.
+- When a "Remove" button is clicked, the corresponding task should be removed from the list.
+
+AddTask Component:
+- Allow users to input a task description and add it to the list.
+- Each new task should have a unique ID.
+
+State Management:
+- Use the useReducer hook to manage the list of tasks.
+- Define actions such as "ADD_TASK" and "REMOVE_TASK" to modify the task list.

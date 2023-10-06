@@ -30,6 +30,7 @@ const ProductList = () => {
     if (existingItem === undefined) {
       setCart((prevCart) => [...prevCart, item]);
     } else if (existingItem) {
+      // ADD QTY HERE if ITEM IS ?
       return;
     }
   };
