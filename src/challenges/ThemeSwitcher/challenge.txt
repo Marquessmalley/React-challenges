@@ -1,0 +1,20 @@
+Challenge: 
+
+Create a "Theme Switcher" application using React and the useContext hook to manage the theme state.
+
+Requirements:
+
+Theme Context:
+
+- Create a ThemeContext that manages the current theme state (light or dark) and provides it to child components.
+- Use the useContext hook to access the theme state in child components.
+
+Theme Toggle Button:
+
+- Display a "Toggle Theme" button.
+- When the button is clicked, toggle the theme between light and dark.
+
+Themed Styling:
+
+- Style your application with CSS to apply different styles based on the current theme.
+- For example, use light background and dark text for the light theme, and vice versa for the dark theme.

@@ -7,12 +7,10 @@ the state of the shopping cart and allow items to be added and removed from it.
 Requirements:
 
 ProductList Component:
-
 Display a list of products (e.g., name and price) along with an "Add to Cart" button for each product.
 When the "Add to Cart" button is clicked, the selected product should be added to the cart.
 
 Cart Component:
-
 Display the items in the shopping cart, including their names and prices.
 Show a total price for all items in the cart.
 Include a "Remove" button for each item in the cart to remove it from the cart.

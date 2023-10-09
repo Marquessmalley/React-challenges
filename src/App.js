@@ -4,13 +4,13 @@
 // import GithubUser from "./challenges/GithubUser/GithubUser";
 // import CountdownTimer from "./challenges/CountdownTimer/CountdownTimer";
 // import Registration from "./challenges/Registration/Registration";
-import TaskManager from "./challenges/TaskManager/TaskManager";
-import Store from "./challenges/Store/Store";
-
+// import Store from "./challenges/Store/Store";
+// import TaskManager from "./challenges/TaskManager/TaskManager";
+import ThemeSwitcher from "./challenges/ThemeSwitcher/ThemeSwitcher";
 function App() {
   return (
     <div className="App">
-      <TaskManager />
+      <ThemeSwitcher />
     </div>
   );
 }
