@@ -1,4 +1,4 @@
-Challenge: 
+Registration Challenge:
 
 Create a React component called RegistrationForm for user registration. The form 
 should include fields for the user's name, email, and password. Implement basic form validation 
